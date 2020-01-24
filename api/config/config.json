@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "sbProject",
+    "password": "sbProject",
+    "database": "sbProject",
+    "host": "35.230.93.43",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "sbProject",
+    "password": "sbProject",
+    "database": "sbProject",
+    "host": "35.230.93.43",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "sbProject",
+    "password": "sbProject",
+    "database": "sbProject",
+    "host": "35.230.93.43",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
